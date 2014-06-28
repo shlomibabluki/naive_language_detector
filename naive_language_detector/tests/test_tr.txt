@@ -1,0 +1,5 @@
+Gmail için Chrome Complete eklentisiyle otomatik tamamlama bilgisayarlara geliyor
+
+Akıllı telefon ve tabletlerde sıklıkla kullanılan otomatik tamamlama özelliğinin halen bilgisayarlarda kullanılmaması pek çok kişiyi şaşırtsa da, bu durum artık değişiyor. Hızlı yazım konusunda dokunmatik ekranlarda önemli bir avantaj sağlayan bu özellik Chrome ile bilgisayarlara da geliyor.
+
+Google’ın Chrome tarayıcısı için hazırladığı Compete isimli uzantı, kullanıcılar kelimenin yazımını bitirmeden kelimeyi tamamlayacak ve yazım süreci hızlanmış olacak. Bir kelimeyi yazmaya başlayan kullanıcılar Ctrl+Space kombinasyonunu kullanarak kelimeyi otomatik olarak tamlayacak. Complete ilk etapta sadece Gmail’de çalışacak. Swayy tarafından hazırlanan eklenti önümüzdeki günlerde yayınlanacak. Şirket önümüzdeki dönemde Complete’i Facebook, iOS ve Android’e de getirmeyi planlıyor.

@@ -1,0 +1,15 @@
+Chrome extension autocompletes emails for you
+
+Autocomplete has long been a blessing (and occasionally a bugbear) of text messaging and IM clients. But now the power of predictive text can be experienced in your Gmail inbox thanks to a newly released extension for the Chrome web browser.
+
+The extension, simply called Complete, performs a near-instant analysis of your Gmail account during setup in order to build a profile of your typing habits. Once that's done, Complete will offer to finish the words you're typing as you type them into the body text of a new email. To accept each suggestion, you just hit enter, tab or ctrl+space before moving on to the next word.
+
+Shlomi Babluki, one of the developers behind the project, told Wired.co.uk that as the software gets to know you, it will get more ambitious with its predictions. "If our algorithm identifies a match with high probability, it will suggest the following word before you have even started typing it," he said.
+
+Babluki developed Complete as a side project with the help of his colleagues at Tel Aviv-based Swayy, which he describes as "a personalised content recommendation engine". It was the idea of building a "personalised autocomplete tool" that drove them towards developing Complete, which uses natural language processing (NLP) to better understand how a user writes and can therefore build up a profile of their style in order to make better predictions while they compose a message.
+
+The software also pays attention to the previous words in the sentence currently being typed, the semantic context, when making predictions.
+
+For touch typists, constantly tapping the tab key to approve suggestions made by Complete may at first seem frustrating, but according to Babluki tests have shown that using the software can reduce the number of keystrokes required to write a message in English by around 35-40 percent. Other languages such as Spanish or German, which generally have longer words, may even fare better.
+
+Babluki and his team hacked together their extension in a "couple of days" and are now interested in offering the service to Facebook users in the future as well as implementing Complete as a predictive keyboard for Android and iOS devices.

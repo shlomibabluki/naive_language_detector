@@ -1,0 +1,9 @@
+Chrome-Addon: 40 Prozent schneller schreiben
+
+Der Programmierer Shlomi Babluki und sein Team haben ein Chrome-Addon programmiert, das Wörter bei der Texteingabe vervollständigt. Ähnliches gibt es zwar bereits schon länger bei bestimmten Programmen, wie etwa bei manchen Instant Messenger. Bablukis Programm "Complete" geht aber einen entscheidenden Schritt weiter.
+
+Mails als Datenbasis
+Das Tool analysiert auf Wunsch den kompletten Inhalt des eigenen Gmail-Accounts und versteht danach den persönlichen Sprachgebrauch. Als Folge daraus vervollständigt Complete nicht nur Wörter, die man gerade schreibt, sondern schlägt sogar bereits das darauffolgende Wort vor.
+
+Bislang nur auf Englisch
+Das Programm funktioniert bislang nur mit Gmail-Accounts als Datenbasis. Außerdem muss die Ausgangssprache Englisch sein. Ob und wann lokalisierte Varianten zur Verfügung stehen werden, ist nicht bekannt. Momentan arbeitet Babluki und sein Team an der Einbindung von Facebook als Datenquelle. Texte sollen sich mit dem Tool rund 35-40 Prozent schneller schreiben lassen.
