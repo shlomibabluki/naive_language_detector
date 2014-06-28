@@ -7,7 +7,7 @@ setup(
     description='Naive Language Detector',
     maintainer='Shlomi Babluki',
     maintainer_email='shlomi@swayy.co',
-    url='https://github.com/SummerHQ/nlp',
+    url='https://github.com/shlomibabluki/naive_language_detector',
     packages=['naive_language_detector'],
     install_requires=[
         'nltk==2.0.4'
